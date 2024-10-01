@@ -5,6 +5,7 @@
 # 4. Строкового типа
 # 5. Пустого типа
 # Вывести их типы.
+
 integer=1
 print(type(integer))
 floating =1.1
