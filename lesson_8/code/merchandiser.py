@@ -1,4 +1,5 @@
 #!/usr/bin/env python
+#help https://pythonturbo.ru/kak-vyvesti-spisok-fajlov-v-kataloge-na-python/
 #todo: Дописать проверку на именование файлов, сделать транслитерацию с
 # русского на английский язык. Заменить в названиях пробелы на нижнее подчеркивание.
 
